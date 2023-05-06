@@ -1,0 +1,30 @@
+- możliwość zarządzania bazą
+
+- możliwość zapisania się na egzamin
+
+- możliwość zdania kursu bez egzaminu
+
+- żeby dostać certyfikat trzeba mieć odpowiednie kompetencje
+
+- zmiany zapisywane są w bazie danych
+
+- aktorzy: student, nauczyciel (materiały do kursów),
+            autor kursu (definiuje kompetencje kursów)
+            admin, manager (dla certów)
+
+- obowiązkowo logowanie i panel różny w zależności od tego jaki aktor
+
+- albo n uczniów i m nauczycieli
+    albo n kursów i m certyfikatów
+
+- uprawnienia aktorów obowiązkowo zdefiniowane w bazie danych
+
+- Frontend musi być
+
+- aplikacja może być webowa ale nie musi
+
+- BEZ ORMÓW
+
+- pierwszy etap notatka i diagram EER
+
+- baza danych musi być relacyjna
